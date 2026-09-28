@@ -1,4 +1,4 @@
-> 이 프로젝트는 SK네트웍스 Family AI 캠프 37기 1차 팀 프로젝트(4인)로 진행되었습니다. <\br>
+> 이 프로젝트는 SK네트웍스 Family AI 캠프 37기 1차 팀 프로젝트(4인)로 진행되었습니다. </br>
 > 원본 저장소: https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN37-1ST-2TEAM
 
 # SKN37-1ST-2TEAM
